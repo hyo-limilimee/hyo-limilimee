@@ -36,4 +36,4 @@
 
 ![hyo-limilimee's github stats](https://github-readme-stats.vercel.app/api?username=hyo-limilimee&show_icons=true&theme=radical) 
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyo-limilimeel&layout=compact&theme=dracula)](https://github.com/metleeha)
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyo-limilimee&layout=compact&theme=nord&hide_border=true" /></a> 
