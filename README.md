@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99ccff,100:ccccff&height=300&section=header&text=Hyo%20Rim%20&animation=twinkling&fontSize=75&fontColor=ffffff)
 <br/><br><br/><br>
 
-## 📞 Contact 📞
+## 💌 Contact 💌
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:1001lily0426@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=java&logoColor=white">
 <br/><br><br/><br>
         
-## 🔨 Once I've used 🔨
+## 🧡 Once I've used 🧡
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
@@ -34,6 +34,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <br/><br><br/><br>
 
+
+## 💛 Studying log 💛
 ![hyo-limilimee's github stats](https://github-readme-stats.vercel.app/api?username=hyo-limilimee&show_icons=true&theme=radical) 
  
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyo-limilimee&layout=compact&theme=nord&hide_border=true" /></a> 
+
+<br/><br><br/><br>
