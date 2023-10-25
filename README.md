@@ -3,10 +3,9 @@
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:1001lily0426@gmail.com">
-        <img src="https://img.shields.io/badge/
-        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-    
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=java&logoColor=white">
+
+        
 ## 🔨 Once I've used 🔨
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -23,7 +22,7 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Tistory&logoColor=white">
 
-<img src="https://img.shields.io/badge/Eclipse-525C86-2C2255?style=for-the-badge&logo=Tistory&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Tistory&logoColor=white">
 
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 
