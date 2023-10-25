@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Tistory&logoColor=white">
 
-<img src="https://img.shields.io/badge/C++-#00599C?style=for-the-badge&logo=Tistory&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Tistory&logoColor=white">
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Tistory&logoColor=white">
 
@@ -23,11 +23,11 @@
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Tistory&logoColor=white">
 
-<img src="https://img.shields.io/badge/#525C86-2C2255?style=for-the-badge&logo=Tistory&logoColor=white">
+<img src="https://img.shields.io/badge/Ecclipse-525C86-2C2255?style=for-the-badge&logo=Tistory&logoColor=white">
 
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 
-<img src="https://img.shields.io/badge/#5C2D91-5C2D91?style=for-the-badge&logo=Tistory&logoColor=white">
+<img src="https://img.shields.io/badge/Tistory5C2D91?style=for-the-badge&logo=Tistory&logoColor=white">
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Tistory&logoColor=white">
 
