@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:99ccff,100:ccccff&height=300&section=header&text=Hyo%20Rim%20&animation=twinkling&fontSize=75&fontColor=ffffff)
 <br/><br><br/><br>
 
-## 💌 Contact 💌
+## 💌 Contact 💌 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:1001lily0426@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=java&logoColor=white">
