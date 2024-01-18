@@ -41,6 +41,8 @@
 
 <img src="https://img.shields.io/badge/Tistory-5C2D91?style=for-the-badge&logo=tistory&logoColor=white">
 
+<img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
+
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
