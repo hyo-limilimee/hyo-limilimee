@@ -39,10 +39,10 @@
 
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 
-<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
 
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=intellijidea&logoColor=white">
-
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Tistory-5C2D91?style=for-the-badge&logo=tistory&logoColor=white">
 
 <img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white">
